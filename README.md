@@ -1,4 +1,10 @@
-### Hi there 👋
+
+# Hey:sparkles:
+ <div>Olá, meu nome é Igor. Sou estudante de Sistemas de Informação, atualmente no 2° período. Amo programar e aprender coisas novas
+ </div>
+ 
+
+<img style="position: absolute; margin: 10px;" src="https://i.imgur.com/WSr85YW.png">
 
 <!--
 **IgorAtilar/IgorAtilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
