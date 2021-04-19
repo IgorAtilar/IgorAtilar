@@ -1,10 +1,16 @@
 
 # Hey:sparkles:
- <div>Olá, meu nome é Igor. Sou estudante de Sistemas de Informação, atualmente no 2° período. Amo programar e aprender coisas novas
- </div>
- 
 
-<img style="position: absolute; margin: 10px;" src="https://i.imgur.com/WSr85YW.png">
+<article>
+<p>
+<img src="https://i.imgur.com/WSr85YW.png" width="300px" align="right" style="max-width:100%;"></p>
+<p align="left"> 
+  Olá, meu nome é Igor. Sou estudante de Sistemas de Informação, atualmente no 2° período. Amo programar e aprender coisas novas.
+</p>
+<p align="left">
+   <strong>Conhecimentos:</strong> Java, JavaScript, HTML, CSS, HTML e Bootstrap.
+</p>
+</article>
 
 <!--
 **IgorAtilar/IgorAtilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
