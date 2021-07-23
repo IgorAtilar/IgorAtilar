@@ -8,7 +8,7 @@
   Olá, meu nome é Igor. Sou estudante de Sistemas de Informação, atualmente no 2° período. Amo programar e aprender coisas novas.
 </p>
 <p align="left">
-   <strong>Conhecimentos:</strong> Java, JavaScript, HTML, CSS, HTML e Bootstrap.
+   <strong>Conhecimentos:</strong> Java, JavaScript, HTML, CSS, SASS, SCSS, HTML, ReactJs, React Native, e Bootstrap.
 </p>
 </article>
 
