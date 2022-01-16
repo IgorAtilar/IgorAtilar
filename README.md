@@ -1,10 +1,8 @@
 # :wave: Opa, bom? :D
 
-Prazer, meu nome é Igor, tenho 23 anos e sou apaixonado por tecnologia. Sou estudante do curso de Sistema de Informações na PUC São Gabriel e atuo como desenvolvedor júnior.
+Prazer, meu nome é Igor, tenho 24 anos e sou apaixonado por tecnologia e desafios. Sou estudante do curso de Sistema de Informações na PUC São Gabriel e atuo como desenvolvedor júnior.
 
-Sempre amei tudo o que era relacionado com tecnologia e computadores desde muito cedo e depois que tive meu primeiro contato com a programação foi um caminho sem volta. Desde o início da faculdade até hoje pude aprender e trabalhar com JavaScript, TypeScript, NodeJs, React, React Native, HTML e CSS.
-
-Atualmente sou estudante do Ignite na RocketSeat 🚀. 
+Sempre amei tudo o que era relacionado com tecnologia e computadores desde muito cedo e depois que tive meu primeiro contato com a programação foi um caminho sem volta. Desde o início da faculdade até hoje pude aprender e trabalhar com JavaScript, TypeScript, NodeJs, React, React Native, HTML e CSS. 
 
 Amo desafios e aprender coisas novas.
 
@@ -21,9 +19,7 @@ Amo desafios e aprender coisas novas.
   <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/react/react-original.svg">
    <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-original.svg">
     <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-original.svg">
-     <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/java/java-original.svg">
      <img align="center" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mongodb/mongodb-original.svg">
-     <img align="center" alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/postgresql/postgresql-original.svg">
      <img align="center" alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/graphql/graphql-plain.svg"> 
 </div>
 <br>
